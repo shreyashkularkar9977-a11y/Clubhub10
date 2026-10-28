@@ -1,0 +1,6 @@
+{
+  "name": "ClubHub - College Club Management Platform",
+  "description": "Centralized university club platform for event registrations, club profiles, yearly activity stats, campus calendar, and role-based club management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
